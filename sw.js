@@ -1,4 +1,4 @@
-const CACHE_NAME = "sahaya-cache-v1";
+const CACHE_NAME = "sahaya-cache-v2";
 const urlsToCache = [
   "/index.html",
   "/blood.html",
